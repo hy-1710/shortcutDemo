@@ -76,3 +76,4 @@ ShortcutInfo shortcut = new ShortcutInfo.Builder(this, "id1")
 shortcutManager.setDynamicShortcuts(Arrays.asList(shortcut));
 
 ```
+
