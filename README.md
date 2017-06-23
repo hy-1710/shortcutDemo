@@ -76,5 +76,5 @@ ShortcutInfo shortcut = new ShortcutInfo.Builder(this, "id1")
 shortcutManager.setDynamicShortcuts(Arrays.asList(shortcut));
 
 ```
-<img src="https://github.com/hy-1710/shortcutDemo/blob/master/art/shortcut.png?raw=true" />
+<img src="https://github.com/hy-1710/shortcutDemo/blob/master/art/shortcut.png?raw=true" height="640" width="360" />
 
